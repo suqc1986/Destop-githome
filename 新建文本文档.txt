@@ -36,15 +36,27 @@ git push -u origin master		把本地仓库同步到远程仓库,输入git用户�
 
 git clone git@github.com:michaelliao/gitskills.git   克隆一个远程仓库所有文件到本地
 
+创建分支与合并分支
+	git checkout -b dev   创建dev分支，并切换到dev分支上
+	相当于如下2条命令
+		git branch dev	   创建分支
+		git checkout dev   切换分支
+	git branch  查看当前分支 
+	
+	在dev分支上捣乱哈哈O(∩_∩)O哈哈~
 
+git merge命令用于合并指定分支到当前分支。
+如:git merge dev   将dev分支上的提交容到master分支上
 
+git branch -d dev 删除分支
 
-
-
-
-
-
-
+总结：
+查看分支：git branch
+创建分支：git branch <name>
+切换分支：git checkout <name>
+创建+切换分支：git checkout -b <name>
+合并某分支到当前分支：git merge <name>
+删除分支：git branch -d <name>
 
 
 
