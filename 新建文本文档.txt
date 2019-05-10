@@ -1,0 +1,8 @@
+git init 初始化git仓库
+git config --global user.email "you@example.com"		设置全局邮箱
+git config --global user.name "Your Name"				设置全局名字
+git status 	查看git仓库状态
+git add 文件名   			告诉Git，把文件添加到仓库
+git commit -m "更新消息"    告诉Git，把文件提交到仓库
+git log 					命令显示从最近到最远的提交日志
+git reset --hard 版本号		退回到指定版本 HEAD为当前版本  HEAD^ 为上一个版本  HEAD^^ 上上个版本
