@@ -22,5 +22,7 @@ public class HelloWorld{
 >>>>>>> dev
 
 		这是开发的分支，所有开发人员在dev分支上开发
+
+		我是另一个小伙伴开发的!
 	}
 }
