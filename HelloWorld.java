@@ -13,7 +13,12 @@ public class HelloWorld{
 =======
 		System.out.println("error-test");
 >>>>>>> test
+<<<<<<< HEAD
 
 	 	修复bug，完善系统功能！
+=======
+	 	
+		正在dev新功能，还需一天完成.
+>>>>>>> dev
 	}
 }
