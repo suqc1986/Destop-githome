@@ -13,6 +13,6 @@ public class HelloWorld{
 =======
 		System.out.println("error-test");
 >>>>>>> test
-	测试融合新提交
+	 	boss is stubit!!!
 	}
 }
