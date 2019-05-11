@@ -20,5 +20,7 @@ public class HelloWorld{
 	 	
 		正在dev新功能，还需一天完成.
 >>>>>>> dev
+
+		这是开发的分支，所有开发人员在dev分支上开发
 	}
 }
