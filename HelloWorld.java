@@ -8,6 +8,10 @@ public class HelloWorld{
 		System.out.println("hello world5");
 		
 		System.out.println("hello world6");
+<<<<<<< HEAD
 		System.out.println("error2");
+=======
+		System.out.println("error-test");
+>>>>>>> test
 	}
 }
